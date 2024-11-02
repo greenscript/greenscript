@@ -1,5 +1,3 @@
-# <div align="center">TERMINAL://USER_PROFILE</div>
-
 <div align="center">
 
 ```
@@ -25,10 +23,10 @@
      CURRENT STATUS:
      > Building amazing things
      > Learning every day
-     > Employed at [Splunk]
+     > Employed
      
-     ; CONNECT:
-     ; > LinkedIn: [https://www.linkedin.com/in/diego-cano-14b5a6123/]
+     CONNECT:
+     > LinkedIn: [https://www.linkedin.com/in/diego-cano-14b5a6123/]
 
 [END TRANSMISSION]
 ```

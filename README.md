@@ -34,5 +34,5 @@
 </div>
 
 <div align="center">
-<sub>© 2024 - Present | Made with ⚡️ by [Diego Cano]</sub>
+<sub>© 2024 - Present | Made with ⚡️ by Diego Cano</sub>
 </div>

@@ -28,9 +28,7 @@
      > Employed at [Splunk]
      
      ; CONNECT:
-     ; > LinkedIn: [Your Link]
-     ; > Twitter: [Your Link]
-     ; > Portfolio: [Your Link]
+     ; > LinkedIn: [https://www.linkedin.com/in/diego-cano-14b5a6123/]
 
 [END TRANSMISSION]
 ```

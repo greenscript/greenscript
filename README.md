@@ -15,5 +15,5 @@
 ---
 
 <div align="center">
-<sub>© 2024–Present · greenscript · <i>"It's dangerous to go alone — take this code."</i> 🗡️</sub>
+<sub>© 2026–Present · greenscript · <i>"It's dangerous to go alone — take this code."</i> 🗡️</sub>
 </div>

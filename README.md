@@ -6,11 +6,11 @@
 
 ---
 
-**Diego Cano** · Software Engineer · San José, Costa Rica
+**Diego** · Software Engineer · San José, Costa Rica
 
 - 🚀 Building **[pressbot.io](https://pressbot.io)** — launching soon
 - ⚡ JavaScript / TypeScript / React / Node.js
-- 📫 [LinkedIn](https://www.linkedin.com/in/diego-cano-14b5a6123/) · [X @greenscript26](https://twitter.com/greenscript26)
+- 📫 [X @greenscript26](https://twitter.com/greenscript26)
 
 ---
 

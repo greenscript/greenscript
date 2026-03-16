@@ -8,12 +8,10 @@
 
 **Diego** · Software Engineer · San José, Costa Rica
 
-- 🚀 Building **[pressbot.io](https://pressbot.io)** — launching soon
 - ⚡ JavaScript / TypeScript / React / Node.js
-- 📫 [X @greenscript26](https://twitter.com/greenscript26)
 
 ---
 
 <div align="center">
-<sub>© 2026–Present · greenscript · <i>"It's dangerous to go alone — take this code."</i> 🗡️</sub>
+<sub>© 2026–Present · greenscript </sub>
 </div>
